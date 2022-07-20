@@ -1,4 +1,3 @@
-import './App.css';
 import styled from '@emotion/styled';
 import LabyrinthCont from './сomponents/LabyrinthCont';
 import AboutLabyrinth from './сomponents/AboutLabyrinth';
