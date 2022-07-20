@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dino-game/static/css/main.4a863882.css",
+    "main.js": "/dino-game/static/js/main.a704a6b0.js",
+    "static/media/right_result.png": "/dino-game/static/media/right_result.bee3ad189a7ad548dfe0.png",
+    "static/media/right_answer.png": "/dino-game/static/media/right_answer.54ec2bd56aa3ffdf5717.png",
+    "static/media/wrong_answer.png": "/dino-game/static/media/wrong_answer.b9b73d2de3da92c5722c.png",
+    "static/media/start.png": "/dino-game/static/media/start.e2c260e964b0f776bc3d.png",
+    "static/media/arrow_down.png": "/dino-game/static/media/arrow_down.f75d3d9f522a3bee70e7.png",
+    "static/media/arrow_top.png": "/dino-game/static/media/arrow_top.67b5e4ca3cd422f9dfb4.png",
+    "static/media/arrow_right.png": "/dino-game/static/media/arrow_right.bb5e58fb2522991d4654.png",
+    "static/media/arrow_left.png": "/dino-game/static/media/arrow_left.550f852fb5f48ea012c9.png",
+    "index.html": "/dino-game/index.html",
+    "main.4a863882.css.map": "/dino-game/static/css/main.4a863882.css.map",
+    "main.a704a6b0.js.map": "/dino-game/static/js/main.a704a6b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a863882.css",
+    "static/js/main.a704a6b0.js"
+  ]
+}
